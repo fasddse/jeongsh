@@ -86,37 +86,35 @@ $$
 
 ---
 
-#**사진**
-![제어공학짱짱맨](https://ei.kw.ac.kr/data/professorImg/i1501201599400.jpg)
-<img src="https://ei.kw.ac.kr/data/professorImg/i1501201599400.jpg"/>
+# **사진**
+<img width="95" alt="image" src="https://github.com/fasddse/jeongsh/assets/144204946/20f32ccb-342e-4855-800f-082d88892ae9">
 
 [제어공학 열심히 하겠습니다!]
 
 
-<img width="80%" src="https://user-images.githubusercontent.com/16822641/109461495-913fc480-7aa5-11eb-9d0e-aff762669f98.gif"/>
 
 
-#**체크박스**
+# **체크박스**
  * [ ] 비어있는 체크박스  
  * [x] 체크된 체크박스
 
 
-#**하이퍼링크**
+# **하이퍼링크**
 [바로가기](https://google.com)  
 <https://google.com>
 
-#**수평선**
+# **수평선**
 ***
 
 ---
 
-#**표**
+# **표**
 | 1열 | 2열 | 3열 |
 | :------- | ----: | :---: |
 | 바디1 | 바디2 | 바디3 |
 | 바디4 | 바디5 | 바디6 |
 
-#**목록**
+# **목록**
 * 사과
 * 오렌지
   + 딸기
