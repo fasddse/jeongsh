@@ -36,12 +36,35 @@ print(a)
 ```
 
 
-$\begin{matrix}1&2\\3&4\\ \end{matrix}$
-$\begin{pmatrix}1&2\\3&4\\ \end{pmatrix}$
-$\begin{bmatrix}1&2\\3&4\\ \end{bmatrix}$
-$\begin{Bmatrix}1&2\\3&4\\ \end{Bmatrix}$
-$\begin{vmatrix}1&2\\3&4\\ \end{vmatrix}$
-$\begin{Vmatrix}1&2\\3&4\\ \end{Vmatrix}$
+$$\begin{matrix}   
+1&2\\
+3&4\\ 
+\end{matrix}$$
+
+$$\begin{pmatrix}
+1&2\\
+3&4\\ 
+\end{pmatrix}$$
+
+$$\begin{bmatrix}
+1&2\\
+3&4\\ 
+\end{bmatrix}$$
+
+$$\begin{Bmatrix}
+1&2\\
+3&4\\ 
+\end{Bmatrix}$$
+
+$$\begin{vmatrix}
+1&2\\
+3&4\\ 
+\end{vmatrix}$$
+
+$$\begin{Vmatrix}
+1&2\\
+3&4\\ 
+\end{Vmatrix}$$
 
 
 
@@ -65,8 +88,12 @@ $$
 
 #**사진**
 ![제어공학짱짱맨](https://ei.kw.ac.kr/data/professorImg/i1501201599400.jpg)
+<img src="https://ei.kw.ac.kr/data/professorImg/i1501201599400.jpg"/>
 
 [제어공학 열심히 하겠습니다!]
+
+
+<img width="80%" src="https://user-images.githubusercontent.com/16822641/109461495-913fc480-7aa5-11eb-9d0e-aff762669f98.gif"/>
 
 
 #**체크박스**
